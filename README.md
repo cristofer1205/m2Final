@@ -1,6 +1,6 @@
 # m2Final
 
-Lastimosamente la implementación no logró ser completada, no se alcanzó a implementar todos los modelos diseñados. :'(
+Lastimosamente la implementación no logró ser completada, no se alcanzó a implementar todos los modelos diseñados en el diagrama. :'(
 
 # Diagrama
 
